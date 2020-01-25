@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Main {
+  margin: 25px 25px;
+  width: 75%;
+}
+.Template div textarea {
+  font-family: "Courier New", Courier, monospace;
+}

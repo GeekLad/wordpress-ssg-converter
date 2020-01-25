@@ -1,0 +1,14 @@
+{
+    "strict": true,
+    "include": [
+        "./src/*"
+    ],
+    "compilerOptions": {
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "target": "ES6",
+        "jsx": "react"
+    }
+}
