@@ -7,7 +7,7 @@
   "dependencies": {
     "@material-ui/core": "4.8.3",
     "@material-ui/icons": "4.5.1",
-    "fast-xml-parser": "3.16.0",
+    "fast-xml-parser": "4.4.1",
     "file-saver": "2.0.2",
     "handlebars": "4.7.2",
     "jszip": "3.2.2",
